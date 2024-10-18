@@ -51,7 +51,7 @@ public class ATV2 {
 			}
 		}
 		
-		
+		//Calcula e imprime os resultados
 		System.out.println("Você escolheu o frete " + tipoFrete 
 				+ "\nO valor da taxa de importação: " + valor*taxaImportacao
 				+ "\nO valor do frete: " + valor*taxaFrete
